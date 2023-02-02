@@ -59,3 +59,9 @@ Here is an example demonstrating the above functionality. Your application might
 look different, but should have the same features.
 
 ![Cofee Project Demo](demo.gif)
+
+Usage instructions:
+If the coffee information is not appearing on startup, check to make sure local storage only has relevant coffee objects. If not, clear and refresh. 
+
+In regards to local storage: make sure the local storage in the browse is clear by:
+right clicking -> select inspect -> select application -> select the relevant local storage -> click the clear all button
